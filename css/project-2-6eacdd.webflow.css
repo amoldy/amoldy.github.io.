@@ -25,6 +25,10 @@ li {
   text-decoration: none;
 }
 
+.nav-link:hover {
+  color: #fff;
+}
+
 .nav-link.w--current:hover {
   color: #fff;
 }
@@ -351,6 +355,11 @@ li {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.cv_button {
+  padding: 14px 35px;
+  border-radius: 14px;
 }
 
 .cv_button.w--current {
