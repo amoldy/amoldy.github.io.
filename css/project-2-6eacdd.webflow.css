@@ -327,7 +327,7 @@ li {
   top: 8px;
   width: 100%;
   height: 52vh;
-  background-image: url('../images/IMG_574AFB3D59CA-1.jpg');
+  background-image: url('../images/IMG_574AFB3D59CA-1.png');
   background-position: 50% 0%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -644,6 +644,9 @@ li {
   .div-block-4 {
     overflow: hidden;
   }
+  .column-2 {
+    margin-top: auto;
+  }
 }
 
 @media (max-width: 479px) {
@@ -670,3 +673,4 @@ li {
     height: 19vh;
   }
 }
+
