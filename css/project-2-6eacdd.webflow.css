@@ -515,8 +515,8 @@ li {
 
 .slide-2 {
   background-color: transparent;
-  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/Picture2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/Picture2.png'), linear-gradient(180deg, #fff, #fff);
   background-position: 50% 50%, 0px 0px;
   background-size: contain, auto;
   background-repeat: no-repeat, repeat;
@@ -529,12 +529,22 @@ li {
   background-size: contain, auto;
 }
 
-.slide-3 {
+.slide-2.proj3slide2 {
   background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
   background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
+}
+
+.slide-3 {
+  background-image: url('../images/Picture3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/Picture3.png'), linear-gradient(180deg, #fff, #fff);
   background-position: 50% 50%, 0px 0px;
   background-size: contain, auto;
   background-repeat: no-repeat, repeat;
+}
+
+.slide-3.proj3slide3 {
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
 }
 
 .slide-4 {
@@ -661,7 +671,7 @@ li {
     transform: none;
   }
   .section.banner {
-    height: 31vh;
+    height: 35vh;
   }
   .div-block-4 {
     overflow: hidden;
@@ -692,7 +702,7 @@ li {
     margin-top: 9px;
   }
   .section.banner {
-    height: 19vh;
+    height: 23vh;
   }
 }
 
