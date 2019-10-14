@@ -448,6 +448,11 @@ li {
   background-image: linear-gradient(180deg, #14f300, #8cf982 0%, #adfba6 26%, #d0fdcc 42%, #e9fee7 59%, #fff 81%);
 }
 
+.proj-title-div.proj3red {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#a10003), color-stop(0%, #ca7072), color-stop(44%, #e7bdbe), color-stop(61%, #f2dcdc), color-stop(78%, #fbf3f3), to(#fff));
+  background-image: linear-gradient(180deg, #a10003, #ca7072 0%, #e7bdbe 44%, #f2dcdc 61%, #fbf3f3 78%, #fff);
+}
+
 .slide-1 {
   background-color: transparent;
   background-image: url('../images/Picture1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
@@ -465,6 +470,11 @@ li {
   background-repeat: no-repeat, repeat;
 }
 
+.slide-1.proj3slide {
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
+}
+
 .proj-title {
   position: relative;
   left: 30px;
@@ -480,6 +490,10 @@ li {
 .proj-title.proj2 {
   background-image: none;
   font-family: Poppins, sans-serif;
+}
+
+.proj-title.proj3 {
+  background-image: none;
 }
 
 .paragraph {
@@ -501,8 +515,8 @@ li {
 
 .slide-2 {
   background-color: transparent;
-  background-image: url('../images/Picture2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/Picture2.png'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
   background-position: 50% 50%, 0px 0px;
   background-size: contain, auto;
   background-repeat: no-repeat, repeat;
@@ -516,8 +530,8 @@ li {
 }
 
 .slide-3 {
-  background-image: url('../images/Picture3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/Picture3.png'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
   background-position: 50% 50%, 0px 0px;
   background-size: contain, auto;
   background-repeat: no-repeat, repeat;
@@ -617,6 +631,14 @@ li {
 .columns {
   margin-top: -30px;
   padding-top: 0px;
+}
+
+.heading-5 {
+  color: #080808;
+}
+
+.heading-6 {
+  color: #141414;
 }
 
 @media (max-width: 991px) {
