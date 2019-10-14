@@ -530,8 +530,8 @@ li {
 }
 
 .slide-2.proj3slide2 {
-  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/cres-pic-2.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/cres-pic-2.jpg'), linear-gradient(180deg, #fff, #fff);
 }
 
 .slide-3 {
@@ -543,8 +543,8 @@ li {
 }
 
 .slide-3.proj3slide3 {
-  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/cres-pic-3.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/cres-pic-3.jpg'), linear-gradient(180deg, #fff, #fff);
 }
 
 .slide-4 {
