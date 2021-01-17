@@ -453,6 +453,21 @@ li {
   background-image: linear-gradient(180deg, #a10003, #ca7072 0%, #e7bdbe 44%, #f2dcdc 61%, #fbf3f3 78%, #fff);
 }
 
+.proj-title-div.proj5cyan {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#2BCED4), color-stop(0%, #72DADE), color-stop(44%, #A9DBDD), color-stop(61%, #D4ECED), color-stop(78%, #E9F8F9), to(#fff));
+  background-image: linear-gradient(180deg, #2BCED4, #72DADE 0%, #A9DBDD 44%, #D4ECED 61%, #E9F8F9 78%, #fff);
+}
+
+.proj-title-div.proj5blue {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#003049), color-stop(0%, #619CBB), color-stop(44%, #A6C9DC), color-stop(61%, #D6E7EF), color-stop(78%, #F2F9FC), to(#fff));
+  background-image: linear-gradient(180deg, #003049, #619CBB 0%, #A6C9DC 44%, #D6E7EF 61%, #F2F9FC 78%, #fff);
+}
+
+.proj-title-div.proj5purp {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#AF9CFE), color-stop(0%, #C5B7FF), color-stop(44%, #CFC4FD), color-stop(61%, #E5DFFC), color-stop(78%, #ECE9FA), to(#fff));
+  background-image: linear-gradient(180deg, #AF9CFE, #C5B7FF 0%, #CFC4FD 44%, #E5DFFC 61%, #ECE9FA 78%, #fff);
+}
+
 .slide-1 {
   background-color: transparent;
   background-image: url('../images/Picture1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
@@ -474,7 +489,18 @@ li {
   background-image: url('../images/1920x1080-black-solid-color-background.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
   background-image: url('../images/1920x1080-black-solid-color-background.jpg'), linear-gradient(180deg, #fff, #fff);
 }
-
+.slide-1.proj4slide {
+  background-image: url('../images/p4s1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/p4s1.png'), linear-gradient(180deg, #fff, #fff);
+}
+.slide-1.proj5slide {
+  background-image: url('../images/p5s1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/p5s1.png'), linear-gradient(180deg, #fff, #fff);
+}
+.slide-1.projlogoslide {
+  background-image: url('../images/logo1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/logo1.png'), linear-gradient(180deg, #fff, #fff);
+}
 .proj-title {
   position: relative;
   left: 30px;
@@ -495,7 +521,9 @@ li {
 .proj-title.proj3 {
   background-image: none;
 }
-
+.proj-title.proj5 {
+  background-image: none;
+}
 .paragraph {
   position: relative;
   left: -44px;
@@ -533,7 +561,18 @@ li {
   background-image: url('../images/cres-pic-2.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
   background-image: url('../images/cres-pic-2.jpg'), linear-gradient(180deg, #fff, #fff);
 }
-
+.slide-2.proj4slide2 {
+  background-image: url('../images/p4s2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/p4s2.png'), linear-gradient(180deg, #fff, #fff);
+}
+.slide-2.proj5slide2 {
+  background-image: url('../images/p5s2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/p5s2.png'), linear-gradient(180deg, #fff, #fff);
+}
+.slide-2.projlogoslide2 {
+  background-image: url('../images/logo2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/logo2.png'), linear-gradient(180deg, #fff, #fff);
+}
 .slide-3 {
   background-image: url('../images/Picture3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
   background-image: url('../images/Picture3.png'), linear-gradient(180deg, #fff, #fff);
@@ -546,7 +585,18 @@ li {
   background-image: url('../images/cres-pic-3.jpg'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
   background-image: url('../images/cres-pic-3.jpg'), linear-gradient(180deg, #fff, #fff);
 }
-
+.slide-3.proj4slide3 {
+  background-image: url('../images/p4s3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/p4s3.png'), linear-gradient(180deg, #fff, #fff);
+}
+.slide-3.proj5slide3 {
+  background-image: url('../images/p5s3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/p5s3.png'), linear-gradient(180deg, #fff, #fff);
+}
+.slide-3.projlogoslide3 {
+  background-image: url('../images/logo3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/logo3.png'), linear-gradient(180deg, #fff, #fff);
+}
 .slide-4 {
   background-image: url('../images/Picture4.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
   background-image: url('../images/Picture4.png'), linear-gradient(180deg, #fff, #fff);
@@ -705,4 +755,3 @@ li {
     height: 23vh;
   }
 }
-
