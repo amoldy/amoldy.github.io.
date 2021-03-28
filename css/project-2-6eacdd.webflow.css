@@ -498,8 +498,8 @@ li {
   background-image: url('../images/p5s1.png'), linear-gradient(180deg, #fff, #fff);
 }
 .slide-1.projlogoslide {
-  background-image: url('../images/logo1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/logo1.png'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/Logo1.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/Logo1.png'), linear-gradient(180deg, #fff, #fff);
 }
 .proj-title {
   position: relative;
@@ -570,8 +570,8 @@ li {
   background-image: url('../images/p5s2.png'), linear-gradient(180deg, #fff, #fff);
 }
 .slide-2.projlogoslide2 {
-  background-image: url('../images/logo2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/logo2.png'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/Logo2.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/Logo2.png'), linear-gradient(180deg, #fff, #fff);
 }
 .slide-3 {
   background-image: url('../images/Picture3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
@@ -594,8 +594,8 @@ li {
   background-image: url('../images/p5s3.png'), linear-gradient(180deg, #fff, #fff);
 }
 .slide-3.projlogoslide3 {
-  background-image: url('../images/logo3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
-  background-image: url('../images/logo3.png'), linear-gradient(180deg, #fff, #fff);
+  background-image: url('../images/Logo3.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
+  background-image: url('../images/Logo3.png'), linear-gradient(180deg, #fff, #fff);
 }
 .slide-4 {
   background-image: url('../images/Picture4.png'), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#fff));
